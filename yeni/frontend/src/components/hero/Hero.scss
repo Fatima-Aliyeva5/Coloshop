@@ -1,0 +1,18 @@
+.hero{
+    background-image: url("https://preview.colorlib.com/theme/coloshop/images/slider_1.jpg");
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   .hero-container{
+    width: 666px;
+
+    h1{
+        font-size: 72px;
+        margin-bottom: 20px;
+    }
+   }
+    .shop-btn{
+        background-color: #FE4C50;
+    }
+}
